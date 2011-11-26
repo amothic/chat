@@ -38,21 +38,21 @@
 		D0D9B792148088ED008F4FE0 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		D0D9B794148088EE008F4FE0 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		D0D9B796148088EE008F4FE0 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
-		D0D9B79A148088EE008F4FE0 /* chat-Info.plist */ = {isa = PBXFileReference; path = "chat-Info.plist"; sourceTree = "<group>"; };
+		D0D9B79A148088EE008F4FE0 /* chat-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "chat-Info.plist"; sourceTree = "<group>"; };
 		D0D9B79C148088EE008F4FE0 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		D0D9B79E148088EE008F4FE0 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		D0D9B7A0148088EE008F4FE0 /* chat-Prefix.pch */ = {isa = PBXFileReference; path = "chat-Prefix.pch"; sourceTree = "<group>"; };
-		D0D9B7A1148088EE008F4FE0 /* AppDelegate.h */ = {isa = PBXFileReference; path = AppDelegate.h; sourceTree = "<group>"; };
+		D0D9B7A0148088EE008F4FE0 /* chat-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "chat-Prefix.pch"; sourceTree = "<group>"; };
+		D0D9B7A1148088EE008F4FE0 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		D0D9B7A2148088EE008F4FE0 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
 		D0D9B7A5148088EE008F4FE0 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard_iPhone.storyboard; sourceTree = "<group>"; };
 		D0D9B7A8148088EE008F4FE0 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard_iPad.storyboard; sourceTree = "<group>"; };
-		D0D9B7AA148088EE008F4FE0 /* ViewController.h */ = {isa = PBXFileReference; path = ViewController.h; sourceTree = "<group>"; };
+		D0D9B7AA148088EE008F4FE0 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
 		D0D9B7AB148088EE008F4FE0 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		D0D9B7B2148088EE008F4FE0 /* chatTests.octest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = chatTests.octest; sourceTree = BUILT_PRODUCTS_DIR; };
 		D0D9B7B3148088EE008F4FE0 /* SenTestingKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SenTestingKit.framework; path = Library/Frameworks/SenTestingKit.framework; sourceTree = DEVELOPER_DIR; };
-		D0D9B7BB148088EE008F4FE0 /* chatTests-Info.plist */ = {isa = PBXFileReference; path = "chatTests-Info.plist"; sourceTree = "<group>"; };
+		D0D9B7BB148088EE008F4FE0 /* chatTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "chatTests-Info.plist"; sourceTree = "<group>"; };
 		D0D9B7BD148088EE008F4FE0 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
-		D0D9B7BF148088EE008F4FE0 /* chatTests.h */ = {isa = PBXFileReference; path = chatTests.h; sourceTree = "<group>"; };
+		D0D9B7BF148088EE008F4FE0 /* chatTests.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = chatTests.h; sourceTree = "<group>"; };
 		D0D9B7C0148088EE008F4FE0 /* chatTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = chatTests.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 

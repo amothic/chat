@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		D0481D9C1480DF36008E4462 /* Settings.bundle in Resources */ = {isa = PBXBuildFile; fileRef = D0481D9B1480DF36008E4462 /* Settings.bundle */; };
 		D0D9B793148088EE008F4FE0 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D0D9B792148088ED008F4FE0 /* UIKit.framework */; };
 		D0D9B795148088EE008F4FE0 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D0D9B794148088EE008F4FE0 /* Foundation.framework */; };
 		D0D9B797148088EE008F4FE0 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D0D9B796148088EE008F4FE0 /* CoreGraphics.framework */; };
@@ -34,6 +35,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		D0481D9B1480DF36008E4462 /* Settings.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = Settings.bundle; sourceTree = "<group>"; };
 		D0D9B78E148088ED008F4FE0 /* chat.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = chat.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D0D9B792148088ED008F4FE0 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		D0D9B794148088EE008F4FE0 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
@@ -120,6 +122,7 @@
 				D0D9B7AA148088EE008F4FE0 /* ViewController.h */,
 				D0D9B7AB148088EE008F4FE0 /* ViewController.m */,
 				D0D9B799148088EE008F4FE0 /* Supporting Files */,
+				D0481D9B1480DF36008E4462 /* Settings.bundle */,
 			);
 			path = chat;
 			sourceTree = "<group>";
@@ -228,6 +231,7 @@
 				D0D9B79D148088EE008F4FE0 /* InfoPlist.strings in Resources */,
 				D0D9B7A6148088EE008F4FE0 /* MainStoryboard_iPhone.storyboard in Resources */,
 				D0D9B7A9148088EE008F4FE0 /* MainStoryboard_iPad.storyboard in Resources */,
+				D0481D9C1480DF36008E4462 /* Settings.bundle in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -444,6 +448,7 @@
 				D0D9B7C6148088EE008F4FE0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		D0D9B7C7148088EE008F4FE0 /* Build configuration list for PBXNativeTarget "chatTests" */ = {
 			isa = XCConfigurationList;
@@ -452,6 +457,7 @@
 				D0D9B7C9148088EE008F4FE0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
